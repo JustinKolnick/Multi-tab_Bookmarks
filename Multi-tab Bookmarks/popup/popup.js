@@ -5,9 +5,9 @@ document.getElementById('casual').onclick = casual;
 function focus_w ()
 {
 	let url_list = [
-	"https://webmail.ucf.edu",
-	"https://trello.com/b/GqjxANti/mb-tech-services",
-	"https://my.ucf.edu/psp/IHPROD/GUEST/EMPL/h/?tab=PAPP_GUEST"
+	"https://www.google.com",
+	"https://www.google.com",
+	"https://www.google.com",
 	];
 
 	for(let i = 0; i < url_list.length; i++)
@@ -20,9 +20,9 @@ function focus_w ()
 function focus_c () 
 {
 	let url_list = [
-	"https://drive.google.com/drive/my-drive",
-	"https://webcourses.ucf.edu",
-	"http://www.outlook.com/knights.ucf.edu"
+	"https://www.google.com",
+	"https://www.google.com",
+	"https://www.google.com",
 	];
 
 	for(let i = 0; i < url_list.length; i++)
@@ -35,9 +35,9 @@ function focus_c ()
 function casual () 
 {
 	let url_list = [
-	"https://www.youtube.com/feed/subscriptions",
-	"https://www.facebook.com",
-	"https://www.reddit.com"
+	"https://www.google.com",
+	"https://www.google.com",
+	"https://www.google.com",
 	];
 
 	for(let i = 0; i < url_list.length; i++)
