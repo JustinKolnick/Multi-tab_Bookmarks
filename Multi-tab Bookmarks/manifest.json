@@ -1,0 +1,17 @@
+{
+	"manifest_version": 2,
+
+	"name": "Multi-tab Bookmarks",
+	"version": "0.02",
+	"author": "justinkolnick@gmail.com",
+
+	"permissions": [
+		"tabs"
+	],
+
+	"browser_action": {
+		"default_icon": "pt.png",
+		"default_popup": "popup/index.html",
+		"default_title": "Multi-tab Bookmarks"
+	}
+}
